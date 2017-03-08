@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pollywog</string>
+    <string name="wlan">Wi-Fi</string>
+    <string name="mtkengr">Engineering Menu</string>
+    <string name="appmgr">App Manager</string>
+    <string name="lockscrn">Lock Screen</string>
+    <string name="devoptions">Developer Options</string>
+    <string name="about">Pollywog - The LeapFrog Epic Toolbox</string>
+    <string name="version">v0.1</string>
+    <string name="custhelp">LeapFrog Support</string>
+    <string name="resources">Resources</string>
+    <string name="author">Written by Blake Gripling</string>
+    <string name="email">peanuthead_069@yahoo.com</string>
+    <string name="aboutTitle">About Application</string>
+    <string name="resourcesTitle">LeapFrog Epic Resources</string>
+    <string name="disclaimer">This application is not in any way made, endorsed and/or licenced by LeapFrog Enterprises or its affiliates. The author is not responsible for any damage or data loss caused by the use of this app.</string>
+    <string name="licence">View Licence</string>
+    <string name="licenceTitle">Open-source licences</string>
+</resources>

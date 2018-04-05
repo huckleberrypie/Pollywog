@@ -17,7 +17,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_bfd3b64d6aaf0db48cb34d66b7a2409df3f4a8c4.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bfd3b64d6aaf0db48cb34d66b7a2409df3f4a8c4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,16 +35,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_7e2136adcc1ef152225ea15880083b332bfa76a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bb0d28ddb8201db5377ca6e08d459f64eba414e4">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/instant-run_8ece534a3dd60d07776f5ddc0411803c430b0b3d.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_7e2136adcc1ef152225ea15880083b332bfa76a5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +44,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_6ae40bc5ce7ec4211d5d18a0552f11f9c24bfd7d.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_6ae40bc5ce7ec4211d5d18a0552f11f9c24bfd7d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,21 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1428b486ac688f80b4c17189f5d88193cb002e05">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_00d961f33beeb995f23a8ede8bc398ff9a28220d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_fb20383575ed36728b0475eca672f60b9702d1d5.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_fb20383575ed36728b0475eca672f60b9702d1d5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +98,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_6dcc36398c6ba48da074197c1b34a566136a7d3e.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_6dcc36398c6ba48da074197c1b34a566136a7d3e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +107,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/support-annotations-25.0.1_bb89ebc23b87304a804e732671c2a1b398a258e2.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_bb89ebc23b87304a804e732671c2a1b398a258e2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +134,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_b3354cb77054e2ae22bf45468e6ad926f0dd3049.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b3354cb77054e2ae22bf45468e6ad926f0dd3049.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +143,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_3a2780f1a2a0c42891d29ce82b35192252fed84e.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3a2780f1a2a0c42891d29ce82b35192252fed84e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +152,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_93a31f96682ccdaccd37122b969254de031cfe32.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_93a31f96682ccdaccd37122b969254de031cfe32.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +161,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_04080860d0578681a37912099d7cb0918f8de0bb.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_04080860d0578681a37912099d7cb0918f8de0bb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,7 +197,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_074e84fb9cccf878c79afaf1d6620b9a44153d09.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_074e84fb9cccf878c79afaf1d6620b9a44153d09.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,7 +215,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_2bb631312564c3774051ae941b37ee596a107a8c.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_2bb631312564c3774051ae941b37ee596a107a8c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +233,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_069ec1997d110940e3b19379694a27fb23dc4b29.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_069ec1997d110940e3b19379694a27fb23dc4b29.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,7 +242,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_a80b62782b4fdd2f9ae8929d813f1271cf3f5d02.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a80b62782b4fdd2f9ae8929d813f1271cf3f5d02.jar" />
     </item>
     <item
         is-multidex="false"
@@ -278,7 +260,7 @@
         optimize="true"
         revision="25.0.1"
         sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_e5a538cbcee64156820ba42e56f021f605d8ae54.jar" />
+        <dex dex="/home/ruthie/Documents/source/Pollywog/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_e5a538cbcee64156820ba42e56f021f605d8ae54.jar" />
     </item>
     <item
         is-multidex="false"
